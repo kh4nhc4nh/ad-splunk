@@ -247,19 +247,11 @@ This lab helps me practice:
 
 ### Splunk Dashboard
 
-Add screenshot here:
-
-```text
-docs/images/splunk-dashboard.png
-```
+![image](./docs/image/4.png)
 
 ### Kali Linux Network Configuration
 
-Add screenshot here:
-
-```text
-docs/images/kali-network.png
-```
+![image](./docs/image/5.png)
 
 ## 10. Important Notes
 
@@ -285,6 +277,6 @@ Planned improvements:
 
 ## 12. Author
 
-Created by: `<your-name>`
+Created by: `Hoang Gia Khanh`
 
 Purpose: Personal cybersecurity lab, SOC learning, Active Directory monitoring, Splunk and Sysmon practice.
