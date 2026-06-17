@@ -236,25 +236,14 @@ This lab helps me practice:
 
 ![image](./docs/image/1.png)
 
-```text
-docs/images/splunk-server-network.png
-```
 
 ### Windows 10 Victim Network Configuration
 
-Add screenshot here:
-
-```text
-docs/images/windows-victim-network.png
-```
+![image](./docs/image/2.png)
 
 ### Active Directory Domain Controller
 
-Add screenshot here:
-
-```text
-docs/images/windows-server-ad.png
-```
+![image](./docs/image/3.png)
 
 ### Splunk Dashboard
 
