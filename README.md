@@ -234,7 +234,7 @@ This lab helps me practice:
 
 ### Splunk Server Network Configuration
 
-[!image](./docs/image/1.png)
+![image](./docs/image/1.png)
 
 ```text
 docs/images/splunk-server-network.png
